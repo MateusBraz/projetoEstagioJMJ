@@ -1,14 +1,20 @@
 # estagio-jmj
 
-## Project setup
+## Passo 1 instale o vue CLI
+```
+npm install -g @vue/cli
+```
+
+## Passo 2 entre na pasta machine-learning-front pelo terminal e execute o comando abaixo para instalar as dependências do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Passo 3 após instalar as dependências execute o comando abaixo para gerar o build da aplicação  
 ```
 npm run serve
 ```
+
 
 ### Compiles and minifies for production
 ```
